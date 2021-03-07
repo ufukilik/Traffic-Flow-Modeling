@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1540841030 source:c:\users\ufuk\code blocks doc\proje1\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1540841030 source:c:\users\ufuk\desktop\proje1\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1540841030 source:c:\users\ufuk\desktop\proje\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
